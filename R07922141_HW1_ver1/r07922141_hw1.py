@@ -35,15 +35,15 @@ def diagonal(lena):
 # up_down_lena = lena_img[::-1, :, :]
 up_down_lena = up_down(lena_img)
 cv2.imshow('up_down_lena', up_down_lena)
-#cv2.imwrite('up_down_lena.jpg',up_down_lena)
+cv2.imwrite('up_down_lena.jpg',up_down_lena)
 
 # left_right_lena = lena_img[:, ::-1, :]
 left_right_lena = left_right(lena_img)
 cv2.imshow('left_right_lena', left_right_lena)
-#cv2.imwrite('left_right_lena.jpg',left_right_lena)
+cv2.imwrite('left_right_lena.jpg',left_right_lena)
 
 diagonal_lena = diagonal(lena_img)
 cv2.imshow('diagonal_lena', diagonal_lena)
-#cv2.imwrite('diagonal_lena.jpg',diagonal_lena)
+cv2.imwrite('diagonal_lena.jpg',diagonal_lena)
 
 cv2.waitKey(0)

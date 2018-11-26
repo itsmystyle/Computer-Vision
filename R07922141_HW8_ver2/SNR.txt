@@ -1,0 +1,28 @@
+Gaussian noise, 10: 13.581429044764556
+Gaussian noise, 30: 4.183216656663636
+Gaussian noise, 10, box 3x3: 17.735891448075332
+Gaussian noise, 30, box 3x3: 12.61705912636165
+Gaussian noise, 10, box 5x5: 14.8560894905847
+Gaussian noise, 30, box 5x5: 13.315099877333115
+Gaussian noise, 10, median 3x3: 17.65266923005768
+Gaussian noise, 30, median 3x3: 11.09420590328572
+Gaussian noise, 10, median 5x5: 15.982992500410534
+Gaussian noise, 30, median 5x5: 12.913785086064074
+Salt and Pepper noise, 0.05: 0.8821535400888908
+Salt and Pepper noise, 0.1: -2.1061263968188424
+Salt and Pepper noise, 0.05, box 3x3: 9.403958128791366
+Salt and Pepper noise, 0.1, box 3x3: 6.31071934250758
+Salt and Pepper noise, 0.05, box 5x5: 11.112759520258134
+Salt and Pepper noise, 0.1, box 5x5: 8.475400451543882
+Salt and Pepper noise, 0.05, median 3x3: 19.14048593977116
+Salt and Pepper noise, 0.1, median 3x3: 15.14668614294938
+Salt and Pepper noise, 0.05, median 5x5: 16.35766660023127
+Salt and Pepper noise, 0.1, median 5x5: 15.759479436189142
+Gaussian noise, 10, Close then Open: 13.581930802820732
+Gaussian noise, 30, Close then Open: 11.201618846347788
+Salt and Pepper noise, 0.05, Close then Open: 5.145627955759241
+Salt and Pepper noise, 0.1, Close then Open: -2.590410853993535
+Gaussian noise, 10, Open then Close: 13.258011162275768
+Gaussian noise, 30, Open then Close: 11.202269039983342
+Salt and Pepper noise, 0.05, Open then Close: 5.784619021912828
+Salt and Pepper noise, 0.1, Open then Close: -2.1565051717744077
